@@ -1,0 +1,509 @@
+<TimeTable>
+    <Institution_Name>Quantum UNIVERSITY, SCHOOL OF ECE</Institution_Name>
+
+    <Id>Quantum TimeTable Generator</Id>
+
+    <Days_List>
+        <Number_of_Days>6</Number_of_Days>
+        <Day>
+            <Name>Monday</Name>
+        </Day>
+        <Day>
+            <Name>Tuesday</Name>
+        </Day>
+        <Day>
+            <Name>Wednesday</Name>
+        </Day>
+        <Day>
+            <Name>Thursday</Name>
+        </Day>
+        <Day>
+            <Name>Friday</Name>
+        </Day>
+        <Day>
+            <Name>Saturday</Name>
+        </Day>
+    </Days_List>
+
+    <Hours_List>
+        <Number_of_Hours>8</Number_of_Hours>
+        <Hour>
+            <Name>09:00- 09:55</Name>
+        </Hour>
+        <Hour>
+            <Name>09:55 - 10:50</Name>
+        </Hour>
+        <Hour>
+            <Name>11:50 - 11:45</Name>
+        </Hour>
+        <Hour>
+            <Name>11:45 - 12:40</Name>
+        </Hour>
+        <Hour>
+            <Name>12:40 - 01:35</Name>
+        </Hour>
+        <Hour>
+            <Name>01:35 - 02:30</Name>
+        </Hour>
+        <Hour>
+            <Name>02:30 - 03:25</Name>
+        </Hour>
+        <Hour>
+            <Name>03:25 - 04:20</Name>
+        </Hour>
+
+    </Hours_List>
+    <Subjects_List>
+        <Subject>
+            <Name>Advance Computer Architecture</Name>
+            <Id>01</Id>
+        </Subject>
+        <Subject>
+            <Name>Wireless Network</Name>
+            <Id>02</Id>
+        </Subject>
+        <Subject>
+            <Name>Data WareHouse</Name>
+            <Id>03</Id>
+        </Subject>
+        <Subject>
+            <Name>System Administrator</Name>
+            <Id>04</Id>
+        </Subject>
+        <Subject>
+            <Name>Human Resourse Management</Name>
+            <Id>05</Id>
+        </Subject>
+        <Subject>
+            <Name>System Administrator Lab</Name>
+            <Id>06</Id>
+        </Subject>
+        <Subject>
+            <Name>CryptoGraphy</Name>
+            <Id>07</Id>
+        </Subject>
+        <Subject>
+            <Name>Distributed System</Name>
+            <Id>08</Id>
+        </Subject>
+        <Subject>
+            <Name>Parallel Computing</Name>
+            <Id>09</Id>
+        </Subject>
+        <Subject>
+            <Name>Web Technology</Name>
+            <Id>10</Id>
+        </Subject>
+        <Subject>
+            <Name>Industrial Interaction</Name>
+            <Id>11</Id>
+        </Subject>
+        <Subject>
+            <Name>Data Analaysis and algorithms</Name>
+            <Id>12</Id>
+        </Subject>
+        <Subject>
+            <Name>Princile of programming</Name>
+            <Id>13</Id>
+        </Subject>
+        <Subject>
+            <Name>Advance Java </Name>
+            <Id>14</Id>
+        </Subject>
+        <Subject>
+            <Name>Advance Java Lab</Name>
+            <Id>15</Id>
+        </Subject>
+        <Subject>
+            <Name>PPL lab</Name>
+            <Id>16</Id>
+        </Subject>
+        <Subject>
+            <Name>Graphics</Name>
+            <Id>17</Id>
+        </Subject>
+        <Subject>
+            <Name>Graphics Lab</Name>
+            <Id>18</Id>
+        </Subject>
+        <Subject>
+            <Name>Compute Network </Name>
+            <Id>19</Id>
+        </Subject>
+        <Subject>
+            <Name>Modulation and Simulation</Name>
+            <Id>20</Id>
+        </Subject>
+        <Subject>
+            <Name>Placement Training</Name>
+            <Id>21</Id>
+        </Subject>
+        <Subject>
+            <Name>CETPA PHP</Name>
+            <Id>22</Id>
+        </Subject>
+        <Subject>
+            <Name>CETPA Cloud Computing</Name>
+            <Id>23</Id>
+        </Subject>
+        <Subject>
+            <Name>CETPA 3rd Year</Name>
+            <Id>24</Id>
+        </Subject>
+        <Subject>
+            <Name>Economics</Name>
+            <Id>25</Id>
+        </Subject>
+        <Subject>
+            <Name>CBNST</Name>
+            <Id>26</Id>
+        </Subject>
+        <Subject>
+            <Name>Data Structure</Name>
+            <Id>27</Id>
+        </Subject>
+        <Subject>
+            <Name>DE</Name>
+            <Id>28</Id>
+        </Subject>
+        <Subject>
+            <Name>DS</Name>
+            <Id>29</Id>
+        </Subject>
+        <Subject>
+            <Name>Data Structure</Name>
+            <Id>30</Id>
+        </Subject>
+        <Subject>
+            <Name>PDP Training</Name>
+            <Id>31</Id>
+        </Subject>
+        <Subject>
+            <Name>Internal Technical Training</Name>
+            <Id>32</Id>
+        </Subject>
+    </Subjects_List>
+    <Teachers_List>
+    <Teacher>
+        <Name>Abhisekh Mittal</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>01</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Dipak Painuli</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>02</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Satindra Kumar</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>03</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Ankur Rana</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>04</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Ankit Aggrawal</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>05</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Ankit Tomar</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>06</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Chunnu Lal</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>07</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Mitendra Arya</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>08</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Sishir Sangal</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>09</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Mayur ShreeWastav</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>10</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Ashsish Rana</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>11</Id>
+    </Teacher>
+    <Teacher>
+        <Name>K.K Varma</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>12</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Rishi Sharma</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>13</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Sandhya Samant</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>14</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Shobhit</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>15</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Vishal Vig</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>16</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Nisthat Mallik</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>17</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Megha Chauhan</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>18</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Ritul Vashistha</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>19</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Rose Mount</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>20</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Vaibhav</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>21</Id>
+    </Teacher>
+    <Teacher>
+        <Name>Gk Sharma</Name>
+        <Target_Number_of_Hours>0</Target_Number_of_Hours>
+        <Id>22</Id>
+    </Teacher>
+    </Teachers_List>
+    <Student_List>
+        <Student>
+            <Id>CS2S1T1</Id>
+            <Year>02</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE1</Section>
+            <Group>T1</Group>
+        </Student>
+        <Student>
+            <Id>CS2S1T2</Id>
+            <Year>02</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE1</Section>
+            <Group>T2</Group>
+        </Student>
+        <Student>
+            <Id>CS2S2T1</Id>
+            <Year>02</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE2</Section>
+            <Group>T1</Group>
+        </Student>
+        <Student>
+            <Id>CS2S2T2</Id>
+            <Year>02</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE2</Section>
+            <Group>T2</Group>
+        </Student>
+        <Student>
+            <Id>CS3S1T1</Id>
+            <Year>03</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE1</Section>
+            <Group>T1</Group>
+        </Student>
+        <Student>
+            <Id>CS3S1T2</Id>
+            <Year>03</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE1</Section>
+            <Group>T2</Group>
+        </Student>
+        <Student>
+            <Id>CS3S2T1</Id>
+            <Year>03</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE2</Section>
+            <Group>T1</Group>
+        </Student>
+        <Student>
+            <Id>CS3S2T2</Id>
+            <Year>03</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE2</Section>
+            <Group>T2</Group>
+        </Student>
+        <Student>
+            <Id>CS4S1T1</Id>
+            <Year>04</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE1</Section>
+            <Group>T1</Group>
+        </Student>
+        <Student>
+            <Id>CS4S1T2</Id>
+            <Year>04</Year>
+            <Course>B.Tech</Course>
+            <Branch>CSE</Branch>
+            <Section>CSE1</Section>
+            <Group>T2</Group>
+        </Student>
+    </Student_List>
+    <Room_List>
+        <Room>
+            <Id>L01</Id>
+        </Room>
+        <Room>
+            <Id>L02</Id>
+        </Room>
+        <Room>
+            <Id>L03</Id>
+        </Room>
+        <Room>
+            <Id>L04</Id>
+        </Room>
+        <Room>
+            <Id>L05</Id>
+        </Room>
+        <Room>
+            <Id>L06</Id>
+        </Room>
+        <Room>
+            <Id>L07</Id>
+        </Room>
+        <Room>
+            <Id>L08</Id>
+        </Room>
+        <Room>
+            <Id>L09</Id>
+        </Room>
+        <Room>
+            <Id>L010</Id>
+        </Room>
+    </Room_List>
+    <Activities_List>
+    <Activity>
+        <Id>01</Id>
+        <ActivityTag>(T)</ActivityTag>
+        <Teacher>Abhisekh Mittal</Teacher>
+        <Subject>HRM</Subject>
+        <Students>CS4S1</Students>
+        <Duration>1</Duration>
+        <Total_Duration>4</Total_Duration>
+    </Activity>
+    <Activity>
+        <Id>02</Id>
+        <ActivityTag>(L)</ActivityTag>
+        <Sub_Actitity>
+            <id>01</id>
+            <Teacher>Chunnu Lal</Teacher>
+            <Subject>System Admin</Subject>
+        </Sub_Actitity>
+        <Sub_Actitity>
+            <id>02</id>
+            <Teacher>kamalkant varma</Teacher>
+            <Subject>datawarehouse</Subject>
+        </Sub_Actitity>
+        <Students>CS4S1</Students>
+        <Duration>2</Duration>
+        <Total_Duration>4</Total_Duration>
+    </Activity>
+    </Activities_List>
+    <Constraints>
+        <SpaceConstraint>
+            <RoomId>01</RoomId>
+            <SubjectId>06</SubjectId>
+        </SpaceConstraint>
+        <TeacherConstraint>
+            <Id>01</Id>
+            <Day>
+                <Name>Monday</Name>
+            </Day>
+            <Hour>
+                <Name>09:00 - 10:50</Name>
+            </Hour>
+        </TeacherConstraint>
+        <StudentConstraint>
+            <Id>01</Id>
+            <Day>
+                <Name>Monday</Name>
+            </Day>
+            <Hour>
+                <Name>11:45 - 12:40</Name>
+            </Hour>
+        </StudentConstraint>
+        <StudentConstraint>
+            <Id>01</Id>
+            <Day>
+                <Name>Tuesday</Name>
+            </Day>
+            <Hour>
+                <Name>11:45 - 12:40</Name>
+            </Hour>
+        </StudentConstraint>
+            <StudentConstraint>
+            <Id>01</Id>
+            <Day>
+                <Name>Wednesday</Name>
+            </Day>
+            <Hour>
+                <Name>11:45 - 12:40</Name>
+            </Hour>
+        </StudentConstraint>
+        <StudentConstraint>
+            <Id>01</Id>
+            <Day>
+                <Name>Thursday</Name>
+            </Day>
+            <Hour>
+                <Name>11:45 - 12:40</Name>
+            </Hour>
+        </StudentConstraint>
+            <StudentConstraint>
+            <Id>01</Id>
+            <Day>
+                <Name>Friday</Name>
+            </Day>
+            <Hour>
+                <Name>11:45 - 12:40</Name>
+            </Hour>
+        </StudentConstraint>
+        <StudentConstraint>
+            <Id>01</Id>
+            <Day>
+                <Name>Saturday</Name>
+            </Day>
+            <Hour>
+                <Name>11:45 - 12:40</Name>
+            </Hour>
+        </StudentConstraint>
+    </Constraints>
+</TimeTable>
